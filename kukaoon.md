@@ -1,4 +1,4 @@
 - 👋 moro oon @Empppudev
-- 👀 lua, js, sql, python!
+- 👀 lua, js, mysql, python!
 - discord mrdevfib
 - https://dsc.gg/urbanroleplay
