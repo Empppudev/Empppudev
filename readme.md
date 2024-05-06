@@ -1,4 +1,4 @@
 - 👋 moro oon @Empppudev
 - 👀 lua, js, mysql, python!
-- discord mrdevfib
-- https://dsc.gg/urbanroleplay
+- discord emppudev
+- https://dsc.gg/polar-rp
