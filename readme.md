@@ -1,4 +1,4 @@
-- 👋 moro oon @Empppudev
+- 👋 Hello im Empppu DEV
 - 👀 lua, js, mysql, python!
 - discord emppudev
 - https://dsc.gg/polar-rp
